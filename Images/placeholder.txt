@@ -1,0 +1,1 @@
+Put public card/slab images here. Example: images/card-front.png
